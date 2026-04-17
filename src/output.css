@@ -176,6 +176,12 @@
   .mt-10 {
     margin-top: calc(var(--spacing) * 10);
   }
+  .mt-30 {
+    margin-top: calc(var(--spacing) * 30);
+  }
+  .mt-40 {
+    margin-top: calc(var(--spacing) * 40);
+  }
   .ml-0 {
     margin-left: calc(var(--spacing) * 0);
   }
@@ -251,6 +257,9 @@
   }
   .p-5 {
     padding: calc(var(--spacing) * 5);
+  }
+  .text-center {
+    text-align: center;
   }
   .text-start {
     text-align: start;
